@@ -114,3 +114,14 @@ body {
       border: none;
   }
 }
+.divCenter {
+  text-align: center;
+}
+.center {
+  margin: 0 auto;
+}
+
+.qrcode {
+  width: 200px;
+  height: 200px;
+}
